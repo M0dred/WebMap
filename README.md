@@ -15,7 +15,7 @@ A Python tool used to automate the execution of the following tools : Nmap , Nik
 ## 🛠 Installation
 ### Linux & Unix
 ```
-$ git clone https://github.com/Anteste/WebMap.git
+$ git https://github.com/M0dred/WebMap.git
 $ cd WebMap
 $ ./install.sh
 $ webmap
